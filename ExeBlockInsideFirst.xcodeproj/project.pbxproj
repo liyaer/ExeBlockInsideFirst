@@ -101,14 +101,8 @@
 		D2CB7E271F7CD9EC0010423E /* ExeBlockInsideFirst */ = {
 			isa = PBXGroup;
 			children = (
-				D2CB7E2B1F7CD9EC0010423E /* AppDelegate.h */,
-				D2CB7E2C1F7CD9EC0010423E /* AppDelegate.m */,
 				D2CB7E2E1F7CD9EC0010423E /* ViewController.h */,
 				D2CB7E2F1F7CD9EC0010423E /* ViewController.m */,
-				D2CB7E311F7CD9EC0010423E /* Main.storyboard */,
-				D2CB7E341F7CD9EC0010423E /* Assets.xcassets */,
-				D2CB7E361F7CD9EC0010423E /* LaunchScreen.storyboard */,
-				D2CB7E391F7CD9EC0010423E /* Info.plist */,
 				D2CB7E281F7CD9EC0010423E /* Supporting Files */,
 			);
 			path = ExeBlockInsideFirst;
@@ -117,6 +111,12 @@
 		D2CB7E281F7CD9EC0010423E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D2CB7E2B1F7CD9EC0010423E /* AppDelegate.h */,
+				D2CB7E2C1F7CD9EC0010423E /* AppDelegate.m */,
+				D2CB7E311F7CD9EC0010423E /* Main.storyboard */,
+				D2CB7E341F7CD9EC0010423E /* Assets.xcassets */,
+				D2CB7E361F7CD9EC0010423E /* LaunchScreen.storyboard */,
+				D2CB7E391F7CD9EC0010423E /* Info.plist */,
 				D2CB7E291F7CD9EC0010423E /* main.m */,
 			);
 			name = "Supporting Files";
